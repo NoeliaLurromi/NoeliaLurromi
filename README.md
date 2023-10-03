@@ -1,3 +1,5 @@
+<img src="../assets/lurromi-header.png">
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100"/> 
 </div>
