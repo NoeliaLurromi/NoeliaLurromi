@@ -1,7 +1,13 @@
-**Hi!**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100"/>
+</div>
 
-- 👋 I’m @lurromi!
-- 👀 I’m interested in graphic design and UX/UI.
-- 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on web design and development projects.
-- 📫 How to reach me: soylurromi@gmail.com
+<h1 align= "center">
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<p align="center"> I’m Noelia a.k.a. @lurromi! I'm a graphic and UX/UI designer, currently learning web development.
+</p>
+<p align="center">👩🏻‍💻 + ☕️ = 💥</p>
+
