@@ -7,4 +7,3 @@
 <h1 align= "center"> Hi there!</h1>
 
 <p align="center"> I’m Noelia a.k.a. @lurromi! I'm a graphic and UX/UI designer, currently learning web development.</p>
-<p align="center">👩🏻‍💻 + ☕️ = 💥</p>
