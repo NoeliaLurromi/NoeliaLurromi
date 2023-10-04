@@ -1,4 +1,4 @@
-https://github.com/NoeliaLurromi/NoeliaLurromi/blob/main/lurromi-header.png?raw=true 
+[https://github.com/NoeliaLurromi/NoeliaLurromi/blob/main/lurromi-header.png?raw=true](https://github.com/NoeliaLurromi/NoeliaLurromi/blob/main/lurromi-header.png?raw=true)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100"/> 
